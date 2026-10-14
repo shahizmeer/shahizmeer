@@ -84,9 +84,10 @@
 | Certification | Issuer | Status |
 |---|---|---|
 | Harnessing the Power of Data with Power BI | Microsoft | ✅ Completed — Apr 2026 |
+| CompTIA Data+ | CompTIA | ✅ Completed |
 | Microsoft Power BI Data Analyst (PL-300) | Microsoft | 🔄 In Progress |
 | AWS Cloud Practitioner | Amazon Web Services | 🔄 In Progress |
-| CompTIA Data+ | CompTIA | 🔄 In Progress |
+
 
 ---
 
